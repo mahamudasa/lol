@@ -1,0 +1,18 @@
+[
+  {
+    "nama": "#menu",
+    "count": 12
+  },
+  {
+    "nama": "#addlist",
+    "count": 1
+  },
+  {
+    "nama": "#list",
+    "count": 1
+  },
+  {
+    "nama": "#getcase",
+    "count": 2
+  }
+]

@@ -1,0 +1,75 @@
+{
+  "sticker": {},
+  "database": {
+    "tes": {
+      "key": {
+        "remoteJid": "120363021582075678@g.us",
+        "fromMe": false,
+        "id": "A8FAB90A0217F1793167B5DBC063BB36"
+      },
+      "message": {
+        "conversation": ".tes"
+      },
+      "participant": "6289501060783@s.whatsapp.net"
+    }
+  },
+  "game": {
+    "family100": [],
+    "math": []
+  },
+  "others": {
+    "vote": [],
+    "absen": []
+  },
+  "users": {
+    "6289501060783@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6288226703423@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6287721317870@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285856430321@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6283110928302@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6287708357324@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "43650422222666@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285791458996@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6281292286714@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285904142544@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6281345932490@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6282274499424@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    }
+  },
+  "grup": {}
+}

@@ -1,0 +1,55 @@
+[
+ { "index" : 0,
+   "capctcha" : "https://telegra.ph/file/95d1b8d6a6cf8383af4bd.jpg", 
+   "kode" : "2909"
+  },
+  { "index" : 1, 
+    "captcha" : "https://telegra.ph/file/4ff58ffe4baebb73194da.jpg", 
+    "kode" : "0192"
+     },
+  { "index" : 2, 
+    "captcha" : "https://telegra.ph/file/c662ccac66d87a9d3e003.jpg", 
+    "kode" : "0225"  
+         },
+  { "index" : 3, 
+    "captcha" : "https://telegra.ph/file/067a02b04213a8fffbd4a.jpg", 
+    "kode" : "4898"  
+         },
+  { "index" : 4, 
+    "captcha" : "https://telegra.ph/file/a80c3e11fae140ca75966.jpg", 
+    "kode" : "1985"  
+         },
+  { "index" : 5, 
+    "captcha" : "https://telegra.ph/file/07c77db91bbb8a5e2479e.jpg", 
+    "kode" : "1879"  
+         },
+  { "index" : 6, 
+    "captcha" : "https://telegra.ph/file/225a6129858c4d793dbab.jpg", 
+    "kode" : "0453"  
+    },
+  { "index" : 7, 
+    "captcha" : "https://telegra.ph/file/b1493d197e55cea757697.jpg", 
+    "kode" : "5620"  
+         },
+  { "index" : 8, 
+    "captcha" : "https://telegra.ph/file/2b77142258243e6e80dbc.jpg", 
+    "kode" : "0155"  
+         },
+  { "index" : 9, 
+    "captcha" : "https://telegra.ph/file/fbc36c0def564012df423.jpg", 
+    "kode" : "4212"  
+    },
+  { "index" : 10, 
+    "captcha" : "https://telegra.ph/file/df526eff3b6d278579b92.jpg", 
+    "kode" : "9873"  
+         },
+  { "index" : 11, 
+    "captcha" : "https://telegra.ph/file/84498e5f7969e6ad8b3d3.jpg", 
+    "kode" : "0071"  
+         },
+  { "index" : 12, 
+    "captcha" : "https://telegra.ph/file/68208b308641d3ebf94f4.jpg", 
+    "kode" : "2770"  
+    }
+]
+   
